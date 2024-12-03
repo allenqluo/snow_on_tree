@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "TEAK_buffer_8km",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -119.050941337345634, 36.969756629690721 ], [ -119.050941337345634, 37.041843150903297 ], [ -118.961058662654366, 37.041843150903297 ], [ -118.961058662654366, 36.969756629690721 ], [ -119.050941337345634, 36.969756629690721 ] ] ] } }
+]
+}
