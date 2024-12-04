@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WREF_buffer_50km",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -122.273593079791496, 45.595569846608967 ], [ -122.273593079791496, 46.045421259850912 ], [ -121.630206920208494, 46.045421259850912 ], [ -121.630206920208494, 45.595569846608967 ], [ -122.273593079791496, 45.595569846608967 ] ] ] } }
+]
+}

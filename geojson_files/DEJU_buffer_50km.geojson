@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "DEJU_buffer_50km",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -146.260144291284917, 63.656831966306598 ], [ -146.260144291284917, 64.105361027492748 ], [ -145.242655708715063, 64.105361027492748 ], [ -145.242655708715063, 63.656831966306598 ], [ -146.260144291284917, 63.656831966306598 ] ] ] } }
+]
+}
