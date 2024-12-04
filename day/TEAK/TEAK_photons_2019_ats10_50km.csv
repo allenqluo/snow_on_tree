@@ -1,0 +1,4 @@
+date,segment_count,unclassified_photon_count,ground_photon_count,canopy_photon_count,top_of_canopy_photon_count,noise_photon_count
+2019-06-07,1285,26157,135558,64432,12544,822
+2019-09-11,3007,59871,207107,202369,45555,388
+2019-12-05,2742,283566,727844,546339,111480,52

@@ -1,0 +1,4 @@
+date,segment_count,unclassified_photon_count,ground_photon_count,canopy_photon_count,top_of_canopy_photon_count,noise_photon_count
+2020-09-08,909,9852,70711,36139,6506,9
+2020-12-02,2161,68945,262470,182512,36670,339
+2020-12-08,3007,100775,300073,273502,56446,472
