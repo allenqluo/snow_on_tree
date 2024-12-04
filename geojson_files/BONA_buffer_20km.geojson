@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BONA_buffer_20km",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -147.715801692686142, 65.064309276855113 ], [ -147.715801692686142, 65.243689642075935 ], [ -147.28939830731386, 65.243689642075935 ], [ -147.28939830731386, 65.064309276855113 ], [ -147.715801692686142, 65.064309276855113 ] ] ] } }
+]
+}
