@@ -1,0 +1,6 @@
+date,segment_count,unclassified_photon_count,ground_photon_count,canopy_photon_count,top_of_canopy_photon_count,noise_photon_count
+2022-04-30,324,14616,89951,9606,1819,0.0
+2022-05-09,77,928,12947,80,25,216
+2022-07-30,446,2003,22283,12868,5212,0.0
+2022-09-30,39,130,174,153,93,420
+2022-10-29,162,13795,85205,15241,3225,0.0

@@ -1,0 +1,3 @@
+date,segment_count,unclassified_photon_count,ground_photon_count,canopy_photon_count,top_of_canopy_photon_count,noise_photon_count
+2021-08-16,567,2974,47172,9275,2465,94
+2021-08-23,3007,36471,95346,210435,42253,3207
