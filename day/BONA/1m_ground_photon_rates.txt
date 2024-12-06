@@ -1,0 +1,7 @@
+Date: 2022-09-05
+==================================================
+Extent ID: 5179140684946342912
+  Canopy Photon Count: [27.0]
+  Terrain Photon Count: [18.0]
+  Canopy Photon Rate: 27.0
+  Terrain Photon Rate: 18.0
