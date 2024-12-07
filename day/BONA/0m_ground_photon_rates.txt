@@ -3,71 +3,81 @@ Date: 2022-09-05
 Extent ID: 5179140684946342912
   Canopy Photon Count: [32.0]
   Terrain Photon Count: [13.0]
-  Canopy Photon Rate: 1.2307692307692308
-  Terrain Photon Rate: 0.5
+  Unique Shots: 1.0
+  Canopy Photon Rate: 32.0
+  Terrain Photon Rate: 13.0
   No data available for this extent.
 ==================================================
 Extent ID: 5179140684946342912
   Canopy Photon Count: [29.0]
   Terrain Photon Count: [7.0]
-  Canopy Photon Rate: 1.45
-  Terrain Photon Rate: 0.35
+  Unique Shots: 1.0
+  Canopy Photon Rate: 29.0
+  Terrain Photon Rate: 7.0
   No data available for this extent.
 ==================================================
 Extent ID: 5179140684946342912
   Canopy Photon Count: [26.0]
   Terrain Photon Count: [3.0]
-  Canopy Photon Rate: 1.625
-  Terrain Photon Rate: 0.1875
+  Unique Shots: 1.0
+  Canopy Photon Rate: 26.0
+  Terrain Photon Rate: 3.0
   No data available for this extent.
 ==================================================
 Extent ID: 5179140684946342912
   Canopy Photon Count: [26.0]
   Terrain Photon Count: [3.0]
-  Canopy Photon Rate: 1.3
-  Terrain Photon Rate: 0.15
+  Unique Shots: 1.0
+  Canopy Photon Rate: 26.0
+  Terrain Photon Rate: 3.0
   No data available for this extent.
 ==================================================
 Extent ID: 5179140684946342912
   Canopy Photon Count: [25.0]
   Terrain Photon Count: [4.0]
-  Canopy Photon Rate: 1.1904761904761905
-  Terrain Photon Rate: 0.19047619047619047
+  Unique Shots: 1.0
+  Canopy Photon Rate: 25.0
+  Terrain Photon Rate: 4.0
   No data available for this extent.
 ==================================================
 Extent ID: 5179140684946342912
   Canopy Photon Count: [24.0]
   Terrain Photon Count: [4.0]
-  Canopy Photon Rate: 1.2
-  Terrain Photon Rate: 0.2
+  Unique Shots: 1.0
+  Canopy Photon Rate: 24.0
+  Terrain Photon Rate: 4.0
   No data available for this extent.
 ==================================================
 Extent ID: 5179140684946342912
   Canopy Photon Count: [24.0]
   Terrain Photon Count: [12.0]
-  Canopy Photon Rate: 1.263157894736842
-  Terrain Photon Rate: 0.631578947368421
+  Unique Shots: 1.0
+  Canopy Photon Rate: 24.0
+  Terrain Photon Rate: 12.0
   No data available for this extent.
 ==================================================
 Extent ID: 5179140684946342912
   Canopy Photon Count: [24.0]
   Terrain Photon Count: [8.0]
-  Canopy Photon Rate: 1.411764705882353
-  Terrain Photon Rate: 0.47058823529411764
+  Unique Shots: 1.0
+  Canopy Photon Rate: 24.0
+  Terrain Photon Rate: 8.0
   No data available for this extent.
 ==================================================
 Extent ID: 5179140684946343936
   Canopy Photon Count: [24.0]
   Terrain Photon Count: [34.0]
-  Canopy Photon Rate: 0.9230769230769231
-  Terrain Photon Rate: 1.3076923076923077
+  Unique Shots: 1.0
+  Canopy Photon Rate: 24.0
+  Terrain Photon Rate: 34.0
   No data available for this extent.
 ==================================================
 Extent ID: 5179140684946342912
   Canopy Photon Count: [22.0]
   Terrain Photon Count: [11.0]
-  Canopy Photon Rate: 0.9565217391304348
-  Terrain Photon Rate: 0.4782608695652174
+  Unique Shots: 1.0
+  Canopy Photon Rate: 22.0
+  Terrain Photon Rate: 11.0
   No data available for this extent.
 ==================================================
 Date: 2022-09-18
@@ -75,8 +85,9 @@ Date: 2022-09-18
 Extent ID: 6106882218922083328
   Canopy Photon Count: [63.0]
   Terrain Photon Count: [5.0]
-  Canopy Photon Rate: 2.25
-  Terrain Photon Rate: 0.17857142857142858
+  Unique Shots: 1.0
+  Canopy Photon Rate: 63.0
+  Terrain Photon Rate: 5.0
   Random 5 Rows:
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.0
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.0
@@ -86,8 +97,9 @@ Extent ID: 6106882218922083328
 Extent ID: 6106882218922082304
   Canopy Photon Count: [56.0]
   Terrain Photon Count: [43.0]
-  Canopy Photon Rate: 2.074074074074074
-  Terrain Photon Rate: 1.5925925925925926
+  Unique Shots: 1.0
+  Canopy Photon Rate: 56.0
+  Terrain Photon Rate: 43.0
   Random 5 Rows:
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.2857142857142858
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.2857142857142858
@@ -98,8 +110,9 @@ Extent ID: 6106882218922082304
 Extent ID: 6106882218922083328
   Canopy Photon Count: [54.0]
   Terrain Photon Count: [12.0]
-  Canopy Photon Rate: 2.25
-  Terrain Photon Rate: 0.5
+  Unique Shots: 1.0
+  Canopy Photon Rate: 54.0
+  Terrain Photon Rate: 12.0
   Random 5 Rows:
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.0
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.0
@@ -109,8 +122,9 @@ Extent ID: 6106882218922083328
 Extent ID: 6106882218922083328
   Canopy Photon Count: [52.0]
   Terrain Photon Count: [5.0]
-  Canopy Photon Rate: 2.1666666666666665
-  Terrain Photon Rate: 0.20833333333333334
+  Unique Shots: 1.0
+  Canopy Photon Rate: 52.0
+  Terrain Photon Rate: 5.0
   Random 5 Rows:
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.0
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.0
@@ -120,8 +134,9 @@ Extent ID: 6106882218922083328
 Extent ID: 6106882218922083328
   Canopy Photon Count: [50.0]
   Terrain Photon Count: [7.0]
-  Canopy Photon Rate: 2.0833333333333335
-  Terrain Photon Rate: 0.2916666666666667
+  Unique Shots: 1.0
+  Canopy Photon Rate: 50.0
+  Terrain Photon Rate: 7.0
   Random 5 Rows:
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.0
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.0
@@ -131,8 +146,9 @@ Extent ID: 6106882218922083328
 Extent ID: 6106882218922083328
   Canopy Photon Count: [50.0]
   Terrain Photon Count: [4.0]
-  Canopy Photon Rate: 1.8518518518518519
-  Terrain Photon Rate: 0.14814814814814814
+  Unique Shots: 1.0
+  Canopy Photon Rate: 50.0
+  Terrain Photon Rate: 4.0
   Random 5 Rows:
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.0
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.0
@@ -142,8 +158,9 @@ Extent ID: 6106882218922083328
 Extent ID: 6106882218922083328
   Canopy Photon Count: [49.0]
   Terrain Photon Count: [3.0]
-  Canopy Photon Rate: 1.8148148148148149
-  Terrain Photon Rate: 0.1111111111111111
+  Unique Shots: 1.0
+  Canopy Photon Rate: 49.0
+  Terrain Photon Rate: 3.0
   Random 5 Rows:
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.0
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.0
@@ -153,8 +170,9 @@ Extent ID: 6106882218922083328
 Extent ID: 6106882218922082304
   Canopy Photon Count: [48.0]
   Terrain Photon Count: [3.0]
-  Canopy Photon Rate: 2.1818181818181817
-  Terrain Photon Rate: 0.13636363636363635
+  Unique Shots: 1.0
+  Canopy Photon Rate: 48.0
+  Terrain Photon Rate: 3.0
   Random 5 Rows:
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.2857142857142858
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.2857142857142858
@@ -165,8 +183,9 @@ Extent ID: 6106882218922082304
 Extent ID: 6106882218922083328
   Canopy Photon Count: [46.0]
   Terrain Photon Count: [2.0]
-  Canopy Photon Rate: 1.84
-  Terrain Photon Rate: 0.08
+  Unique Shots: 1.0
+  Canopy Photon Rate: 46.0
+  Terrain Photon Rate: 2.0
   Random 5 Rows:
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.0
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.0
@@ -176,8 +195,9 @@ Extent ID: 6106882218922083328
 Extent ID: 6106882218922083328
   Canopy Photon Count: [46.0]
   Terrain Photon Count: [11.0]
-  Canopy Photon Rate: 1.7692307692307692
-  Terrain Photon Rate: 0.4230769230769231
+  Unique Shots: 1.0
+  Canopy Photon Rate: 46.0
+  Terrain Photon Rate: 11.0
   Random 5 Rows:
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.0
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.0
@@ -189,71 +209,81 @@ Date: 2022-10-17
 Extent ID: 1850980637628957696
   Canopy Photon Count: [81.0]
   Terrain Photon Count: [9.0]
-  Canopy Photon Rate: 3.24
-  Terrain Photon Rate: 0.36
+  Unique Shots: 1.0
+  Canopy Photon Rate: 81.0
+  Terrain Photon Rate: 9.0
   No data available for this extent.
 ==================================================
 Extent ID: 1850980637628957696
   Canopy Photon Count: [77.0]
   Terrain Photon Count: [10.0]
-  Canopy Photon Rate: 2.8518518518518516
-  Terrain Photon Rate: 0.37037037037037035
+  Unique Shots: 1.0
+  Canopy Photon Rate: 77.0
+  Terrain Photon Rate: 10.0
   No data available for this extent.
 ==================================================
 Extent ID: 1850980637628957696
   Canopy Photon Count: [49.0]
   Terrain Photon Count: [26.0]
-  Canopy Photon Rate: 1.6896551724137931
-  Terrain Photon Rate: 0.896551724137931
+  Unique Shots: 1.0
+  Canopy Photon Rate: 49.0
+  Terrain Photon Rate: 26.0
   No data available for this extent.
 ==================================================
 Extent ID: 1850980637628957696
   Canopy Photon Count: [49.0]
   Terrain Photon Count: [13.0]
-  Canopy Photon Rate: 1.8846153846153846
-  Terrain Photon Rate: 0.5
+  Unique Shots: 1.0
+  Canopy Photon Rate: 49.0
+  Terrain Photon Rate: 13.0
   No data available for this extent.
 ==================================================
 Extent ID: 1850980637628957696
   Canopy Photon Count: [35.0]
   Terrain Photon Count: [9.0]
-  Canopy Photon Rate: 1.5217391304347827
-  Terrain Photon Rate: 0.391304347826087
+  Unique Shots: 1.0
+  Canopy Photon Rate: 35.0
+  Terrain Photon Rate: 9.0
   No data available for this extent.
 ==================================================
 Extent ID: 1850980637628957696
   Canopy Photon Count: [26.0]
   Terrain Photon Count: [11.0]
-  Canopy Photon Rate: 1.368421052631579
-  Terrain Photon Rate: 0.5789473684210527
+  Unique Shots: 1.0
+  Canopy Photon Rate: 26.0
+  Terrain Photon Rate: 11.0
   No data available for this extent.
 ==================================================
 Extent ID: 1850980637628957696
   Canopy Photon Count: [22.0]
   Terrain Photon Count: [67.0]
-  Canopy Photon Rate: 0.8461538461538461
-  Terrain Photon Rate: 2.576923076923077
+  Unique Shots: 1.0
+  Canopy Photon Rate: 22.0
+  Terrain Photon Rate: 67.0
   No data available for this extent.
 ==================================================
 Extent ID: 1850980637628957696
   Canopy Photon Count: [14.0]
   Terrain Photon Count: [41.0]
-  Canopy Photon Rate: 0.6363636363636364
-  Terrain Photon Rate: 1.8636363636363635
+  Unique Shots: 1.0
+  Canopy Photon Rate: 14.0
+  Terrain Photon Rate: 41.0
   No data available for this extent.
 ==================================================
 Extent ID: 1850980637628957696
   Canopy Photon Count: [13.0]
   Terrain Photon Count: [5.0]
-  Canopy Photon Rate: 0.9285714285714286
-  Terrain Photon Rate: 0.35714285714285715
+  Unique Shots: 1.0
+  Canopy Photon Rate: 13.0
+  Terrain Photon Rate: 5.0
   No data available for this extent.
 ==================================================
 Extent ID: 1850980637628957696
   Canopy Photon Count: [12.0]
   Terrain Photon Count: [72.0]
-  Canopy Photon Rate: 0.48
-  Terrain Photon Rate: 2.88
+  Unique Shots: 1.0
+  Canopy Photon Rate: 12.0
+  Terrain Photon Rate: 72.0
   No data available for this extent.
 ==================================================
 Date: 2022-11-06
@@ -261,8 +291,9 @@ Date: 2022-11-06
 Extent ID: 3188549718368059392
   Canopy Photon Count: [130.0]
   Terrain Photon Count: [41.0]
-  Canopy Photon Rate: 4.642857142857143
-  Terrain Photon Rate: 1.4642857142857142
+  Unique Shots: 1.0
+  Canopy Photon Rate: 130.0
+  Terrain Photon Rate: 41.0
   Random 5 Rows:
     Canopy Photon Rate: 2.2083333333333335, Terrain Photon Rate: 0.16666666666666666
     Canopy Photon Rate: 2.2083333333333335, Terrain Photon Rate: 0.16666666666666666
@@ -273,8 +304,9 @@ Extent ID: 3188549718368059392
 Extent ID: 3188549720515543552
   Canopy Photon Count: [128.0]
   Terrain Photon Count: [25.0]
-  Canopy Photon Rate: 4.571428571428571
-  Terrain Photon Rate: 0.8928571428571429
+  Unique Shots: 1.0
+  Canopy Photon Rate: 128.0
+  Terrain Photon Rate: 25.0
   Random 5 Rows:
     Canopy Photon Rate: 0.64, Terrain Photon Rate: 1.16
     Canopy Photon Rate: 0.64, Terrain Photon Rate: 1.16
@@ -285,8 +317,9 @@ Extent ID: 3188549720515543552
 Extent ID: 3188549720515544576
   Canopy Photon Count: [127.0]
   Terrain Photon Count: [55.0]
-  Canopy Photon Rate: 4.535714285714286
-  Terrain Photon Rate: 1.9642857142857142
+  Unique Shots: 1.0
+  Canopy Photon Rate: 127.0
+  Terrain Photon Rate: 55.0
   Random 5 Rows:
     Canopy Photon Rate: 0.9166666666666666, Terrain Photon Rate: 0.7916666666666666
     Canopy Photon Rate: 0.9166666666666666, Terrain Photon Rate: 0.7916666666666666
@@ -297,8 +330,9 @@ Extent ID: 3188549720515544576
 Extent ID: 3188549720515543552
   Canopy Photon Count: [126.0]
   Terrain Photon Count: [14.0]
-  Canopy Photon Rate: 4.666666666666667
-  Terrain Photon Rate: 0.5185185185185185
+  Unique Shots: 1.0
+  Canopy Photon Rate: 126.0
+  Terrain Photon Rate: 14.0
   Random 5 Rows:
     Canopy Photon Rate: 0.64, Terrain Photon Rate: 1.16
     Canopy Photon Rate: 0.64, Terrain Photon Rate: 1.16
@@ -309,8 +343,9 @@ Extent ID: 3188549720515543552
 Extent ID: 3188549720515543552
   Canopy Photon Count: [125.0]
   Terrain Photon Count: [39.0]
-  Canopy Photon Rate: 4.464285714285714
-  Terrain Photon Rate: 1.3928571428571428
+  Unique Shots: 1.0
+  Canopy Photon Rate: 125.0
+  Terrain Photon Rate: 39.0
   Random 5 Rows:
     Canopy Photon Rate: 0.64, Terrain Photon Rate: 1.16
     Canopy Photon Rate: 0.64, Terrain Photon Rate: 1.16
@@ -321,8 +356,9 @@ Extent ID: 3188549720515543552
 Extent ID: 3188549718368059392
   Canopy Photon Count: [124.0]
   Terrain Photon Count: [85.0]
-  Canopy Photon Rate: 4.428571428571429
-  Terrain Photon Rate: 3.0357142857142856
+  Unique Shots: 1.0
+  Canopy Photon Rate: 124.0
+  Terrain Photon Rate: 85.0
   Random 5 Rows:
     Canopy Photon Rate: 2.2083333333333335, Terrain Photon Rate: 0.16666666666666666
     Canopy Photon Rate: 2.2083333333333335, Terrain Photon Rate: 0.16666666666666666
@@ -333,8 +369,9 @@ Extent ID: 3188549718368059392
 Extent ID: 3188549720515543552
   Canopy Photon Count: [124.0]
   Terrain Photon Count: [18.0]
-  Canopy Photon Rate: 4.428571428571429
-  Terrain Photon Rate: 0.6428571428571429
+  Unique Shots: 1.0
+  Canopy Photon Rate: 124.0
+  Terrain Photon Rate: 18.0
   Random 5 Rows:
     Canopy Photon Rate: 0.64, Terrain Photon Rate: 1.16
     Canopy Photon Rate: 0.64, Terrain Photon Rate: 1.16
@@ -345,8 +382,9 @@ Extent ID: 3188549720515543552
 Extent ID: 3188549718368059392
   Canopy Photon Count: [121.0]
   Terrain Photon Count: [53.0]
-  Canopy Photon Rate: 4.321428571428571
-  Terrain Photon Rate: 1.8928571428571428
+  Unique Shots: 1.0
+  Canopy Photon Rate: 121.0
+  Terrain Photon Rate: 53.0
   Random 5 Rows:
     Canopy Photon Rate: 2.2083333333333335, Terrain Photon Rate: 0.16666666666666666
     Canopy Photon Rate: 2.2083333333333335, Terrain Photon Rate: 0.16666666666666666
@@ -357,8 +395,9 @@ Extent ID: 3188549718368059392
 Extent ID: 3188549718368060416
   Canopy Photon Count: [120.0]
   Terrain Photon Count: [55.0]
-  Canopy Photon Rate: 4.285714285714286
-  Terrain Photon Rate: 1.9642857142857142
+  Unique Shots: 1.0
+  Canopy Photon Rate: 120.0
+  Terrain Photon Rate: 55.0
   Random 5 Rows:
     Canopy Photon Rate: 1.7272727272727273, Terrain Photon Rate: 0.5454545454545454
     Canopy Photon Rate: 1.7272727272727273, Terrain Photon Rate: 0.5454545454545454
@@ -369,8 +408,9 @@ Extent ID: 3188549718368060416
 Extent ID: 3188549720515543552
   Canopy Photon Count: [120.0]
   Terrain Photon Count: [32.0]
-  Canopy Photon Rate: 4.137931034482759
-  Terrain Photon Rate: 1.103448275862069
+  Unique Shots: 1.0
+  Canopy Photon Rate: 120.0
+  Terrain Photon Rate: 32.0
   Random 5 Rows:
     Canopy Photon Rate: 0.64, Terrain Photon Rate: 1.16
     Canopy Photon Rate: 0.64, Terrain Photon Rate: 1.16
@@ -385,8 +425,9 @@ Date: 2022-12-18
 Extent ID: 6106882285494076416
   Canopy Photon Count: [213.0]
   Terrain Photon Count: [45.0]
-  Canopy Photon Rate: 7.607142857142857
-  Terrain Photon Rate: 1.6071428571428572
+  Unique Shots: 1.0
+  Canopy Photon Rate: 213.0
+  Terrain Photon Rate: 45.0
   Random 5 Rows:
     Canopy Photon Rate: 1.9583333333333333, Terrain Photon Rate: 0.2916666666666667
     Canopy Photon Rate: 1.9583333333333333, Terrain Photon Rate: 0.2916666666666667
@@ -397,8 +438,9 @@ Extent ID: 6106882285494076416
 Extent ID: 6106882285494076416
   Canopy Photon Count: [175.0]
   Terrain Photon Count: [41.0]
-  Canopy Photon Rate: 6.0344827586206895
-  Terrain Photon Rate: 1.4137931034482758
+  Unique Shots: 1.0
+  Canopy Photon Rate: 175.0
+  Terrain Photon Rate: 41.0
   Random 5 Rows:
     Canopy Photon Rate: 1.9583333333333333, Terrain Photon Rate: 0.2916666666666667
     Canopy Photon Rate: 1.9583333333333333, Terrain Photon Rate: 0.2916666666666667
@@ -409,8 +451,9 @@ Extent ID: 6106882285494076416
 Extent ID: 6106882285494076416
   Canopy Photon Count: [170.0]
   Terrain Photon Count: [86.0]
-  Canopy Photon Rate: 6.071428571428571
-  Terrain Photon Rate: 3.0714285714285716
+  Unique Shots: 1.0
+  Canopy Photon Rate: 170.0
+  Terrain Photon Rate: 86.0
   Random 5 Rows:
     Canopy Photon Rate: 1.9583333333333333, Terrain Photon Rate: 0.2916666666666667
     Canopy Photon Rate: 1.9583333333333333, Terrain Photon Rate: 0.2916666666666667
@@ -421,8 +464,9 @@ Extent ID: 6106882285494076416
 Extent ID: 6106882286567818240
   Canopy Photon Count: [170.0]
   Terrain Photon Count: [20.0]
-  Canopy Photon Rate: 6.071428571428571
-  Terrain Photon Rate: 0.7142857142857143
+  Unique Shots: 1.0
+  Canopy Photon Rate: 170.0
+  Terrain Photon Rate: 20.0
   Random 5 Rows:
     Canopy Photon Rate: 2.272727272727273, Terrain Photon Rate: 0.22727272727272727
     Canopy Photon Rate: 2.272727272727273, Terrain Photon Rate: 0.22727272727272727
@@ -433,8 +477,9 @@ Extent ID: 6106882286567818240
 Extent ID: 6106882285494076416
   Canopy Photon Count: [169.0]
   Terrain Photon Count: [66.0]
-  Canopy Photon Rate: 6.035714285714286
-  Terrain Photon Rate: 2.357142857142857
+  Unique Shots: 1.0
+  Canopy Photon Rate: 169.0
+  Terrain Photon Rate: 66.0
   Random 5 Rows:
     Canopy Photon Rate: 1.9583333333333333, Terrain Photon Rate: 0.2916666666666667
     Canopy Photon Rate: 1.9583333333333333, Terrain Photon Rate: 0.2916666666666667
@@ -445,8 +490,9 @@ Extent ID: 6106882285494076416
 Extent ID: 6106882285494075392
   Canopy Photon Count: [168.0]
   Terrain Photon Count: [19.0]
-  Canopy Photon Rate: 6.0
-  Terrain Photon Rate: 0.6785714285714286
+  Unique Shots: 1.0
+  Canopy Photon Rate: 168.0
+  Terrain Photon Rate: 19.0
   Random 5 Rows:
     Canopy Photon Rate: 1.3333333333333333, Terrain Photon Rate: 0.8888888888888888
     Canopy Photon Rate: 1.3333333333333333, Terrain Photon Rate: 0.8888888888888888
@@ -457,8 +503,9 @@ Extent ID: 6106882285494075392
 Extent ID: 6106882285494076416
   Canopy Photon Count: [167.0]
   Terrain Photon Count: [37.0]
-  Canopy Photon Rate: 5.758620689655173
-  Terrain Photon Rate: 1.2758620689655173
+  Unique Shots: 1.0
+  Canopy Photon Rate: 167.0
+  Terrain Photon Rate: 37.0
   Random 5 Rows:
     Canopy Photon Rate: 1.9583333333333333, Terrain Photon Rate: 0.2916666666666667
     Canopy Photon Rate: 1.9583333333333333, Terrain Photon Rate: 0.2916666666666667
@@ -469,8 +516,9 @@ Extent ID: 6106882285494076416
 Extent ID: 6106882285494076416
   Canopy Photon Count: [166.0]
   Terrain Photon Count: [56.0]
-  Canopy Photon Rate: 5.724137931034483
-  Terrain Photon Rate: 1.9310344827586208
+  Unique Shots: 1.0
+  Canopy Photon Rate: 166.0
+  Terrain Photon Rate: 56.0
   Random 5 Rows:
     Canopy Photon Rate: 1.9583333333333333, Terrain Photon Rate: 0.2916666666666667
     Canopy Photon Rate: 1.9583333333333333, Terrain Photon Rate: 0.2916666666666667
@@ -481,8 +529,9 @@ Extent ID: 6106882285494076416
 Extent ID: 6106882286567818240
   Canopy Photon Count: [164.0]
   Terrain Photon Count: [32.0]
-  Canopy Photon Rate: 5.857142857142857
-  Terrain Photon Rate: 1.1428571428571428
+  Unique Shots: 1.0
+  Canopy Photon Rate: 164.0
+  Terrain Photon Rate: 32.0
   Random 5 Rows:
     Canopy Photon Rate: 2.272727272727273, Terrain Photon Rate: 0.22727272727272727
     Canopy Photon Rate: 2.272727272727273, Terrain Photon Rate: 0.22727272727272727
@@ -493,8 +542,9 @@ Extent ID: 6106882286567818240
 Extent ID: 6106882285494076416
   Canopy Photon Count: [163.0]
   Terrain Photon Count: [68.0]
-  Canopy Photon Rate: 5.620689655172414
-  Terrain Photon Rate: 2.3448275862068964
+  Unique Shots: 1.0
+  Canopy Photon Rate: 163.0
+  Terrain Photon Rate: 68.0
   Random 5 Rows:
     Canopy Photon Rate: 1.9583333333333333, Terrain Photon Rate: 0.2916666666666667
     Canopy Photon Rate: 1.9583333333333333, Terrain Photon Rate: 0.2916666666666667
@@ -507,8 +557,9 @@ Date: 2023-01-20
 Extent ID: 2125700283618035200
   Canopy Photon Count: [175.0]
   Terrain Photon Count: [94.0]
-  Canopy Photon Rate: 3.125
-  Terrain Photon Rate: 1.6785714285714286
+  Unique Shots: 1.0
+  Canopy Photon Rate: 175.0
+  Terrain Photon Rate: 94.0
   Random 5 Rows:
     Canopy Photon Rate: 1.0833333333333333, Terrain Photon Rate: 0.5833333333333334
     Canopy Photon Rate: 1.0833333333333333, Terrain Photon Rate: 0.5833333333333334
@@ -519,8 +570,9 @@ Extent ID: 2125700283618035200
 Extent ID: 2125700283618034688
   Canopy Photon Count: [111.0]
   Terrain Photon Count: [33.0]
-  Canopy Photon Rate: 3.9642857142857144
-  Terrain Photon Rate: 1.1785714285714286
+  Unique Shots: 1.0
+  Canopy Photon Rate: 111.0
+  Terrain Photon Rate: 33.0
   Random 5 Rows:
     Canopy Photon Rate: 1.380952380952381, Terrain Photon Rate: 0.3333333333333333
     Canopy Photon Rate: 1.380952380952381, Terrain Photon Rate: 0.3333333333333333
@@ -531,8 +583,9 @@ Extent ID: 2125700283618034688
 Extent ID: 2125700283618034944
   Canopy Photon Count: [107.0]
   Terrain Photon Count: [37.0]
-  Canopy Photon Rate: 3.8214285714285716
-  Terrain Photon Rate: 1.3214285714285714
+  Unique Shots: 1.0
+  Canopy Photon Rate: 107.0
+  Terrain Photon Rate: 37.0
   Random 5 Rows:
     Canopy Photon Rate: 0.3333333333333333, Terrain Photon Rate: 1.1666666666666667
     Canopy Photon Rate: 0.3333333333333333, Terrain Photon Rate: 1.1666666666666667
@@ -543,8 +596,9 @@ Extent ID: 2125700283618034944
 Extent ID: 2125700283618034944
   Canopy Photon Count: [101.0]
   Terrain Photon Count: [57.0]
-  Canopy Photon Rate: 3.607142857142857
-  Terrain Photon Rate: 2.0357142857142856
+  Unique Shots: 1.0
+  Canopy Photon Rate: 101.0
+  Terrain Photon Rate: 57.0
   Random 5 Rows:
     Canopy Photon Rate: 0.3333333333333333, Terrain Photon Rate: 1.1666666666666667
     Canopy Photon Rate: 0.3333333333333333, Terrain Photon Rate: 1.1666666666666667
@@ -555,8 +609,9 @@ Extent ID: 2125700283618034944
 Extent ID: 2125700283618034688
   Canopy Photon Count: [96.0]
   Terrain Photon Count: [56.0]
-  Canopy Photon Rate: 3.4285714285714284
-  Terrain Photon Rate: 2.0
+  Unique Shots: 1.0
+  Canopy Photon Rate: 96.0
+  Terrain Photon Rate: 56.0
   Random 5 Rows:
     Canopy Photon Rate: 1.380952380952381, Terrain Photon Rate: 0.3333333333333333
     Canopy Photon Rate: 1.380952380952381, Terrain Photon Rate: 0.3333333333333333
@@ -567,8 +622,9 @@ Extent ID: 2125700283618034688
 Extent ID: 2125700283618034688
   Canopy Photon Count: [89.0]
   Terrain Photon Count: [73.0]
-  Canopy Photon Rate: 3.1785714285714284
-  Terrain Photon Rate: 2.607142857142857
+  Unique Shots: 1.0
+  Canopy Photon Rate: 89.0
+  Terrain Photon Rate: 73.0
   Random 5 Rows:
     Canopy Photon Rate: 1.380952380952381, Terrain Photon Rate: 0.3333333333333333
     Canopy Photon Rate: 1.380952380952381, Terrain Photon Rate: 0.3333333333333333
@@ -579,8 +635,9 @@ Extent ID: 2125700283618034688
 Extent ID: 2125700283618034944
   Canopy Photon Count: [89.0]
   Terrain Photon Count: [67.0]
-  Canopy Photon Rate: 3.0689655172413794
-  Terrain Photon Rate: 2.310344827586207
+  Unique Shots: 1.0
+  Canopy Photon Rate: 89.0
+  Terrain Photon Rate: 67.0
   Random 5 Rows:
     Canopy Photon Rate: 0.3333333333333333, Terrain Photon Rate: 1.1666666666666667
     Canopy Photon Rate: 0.3333333333333333, Terrain Photon Rate: 1.1666666666666667
@@ -591,8 +648,9 @@ Extent ID: 2125700283618034944
 Extent ID: 2125700283618034688
   Canopy Photon Count: [86.0]
   Terrain Photon Count: [36.0]
-  Canopy Photon Rate: 2.9655172413793105
-  Terrain Photon Rate: 1.2413793103448276
+  Unique Shots: 1.0
+  Canopy Photon Rate: 86.0
+  Terrain Photon Rate: 36.0
   Random 5 Rows:
     Canopy Photon Rate: 1.380952380952381, Terrain Photon Rate: 0.3333333333333333
     Canopy Photon Rate: 1.380952380952381, Terrain Photon Rate: 0.3333333333333333
@@ -603,8 +661,9 @@ Extent ID: 2125700283618034688
 Extent ID: 2125700283618034944
   Canopy Photon Count: [85.0]
   Terrain Photon Count: [51.0]
-  Canopy Photon Rate: 3.0357142857142856
-  Terrain Photon Rate: 1.8214285714285714
+  Unique Shots: 1.0
+  Canopy Photon Rate: 85.0
+  Terrain Photon Rate: 51.0
   Random 5 Rows:
     Canopy Photon Rate: 0.3333333333333333, Terrain Photon Rate: 1.1666666666666667
     Canopy Photon Rate: 0.3333333333333333, Terrain Photon Rate: 1.1666666666666667
@@ -615,8 +674,9 @@ Extent ID: 2125700283618034944
 Extent ID: 2125700283618035200
   Canopy Photon Count: [82.0]
   Terrain Photon Count: [51.0]
-  Canopy Photon Rate: 2.9285714285714284
-  Terrain Photon Rate: 1.8214285714285714
+  Unique Shots: 1.0
+  Canopy Photon Rate: 82.0
+  Terrain Photon Rate: 51.0
   Random 5 Rows:
     Canopy Photon Rate: 1.0833333333333333, Terrain Photon Rate: 0.5833333333333334
     Canopy Photon Rate: 1.0833333333333333, Terrain Photon Rate: 0.5833333333333334
@@ -629,8 +689,9 @@ Date: 2023-01-31
 Extent ID: 2913830211965420544
   Canopy Photon Count: [90.0]
   Terrain Photon Count: [11.0]
-  Canopy Photon Rate: 3.3333333333333335
-  Terrain Photon Rate: 0.4074074074074074
+  Unique Shots: 1.0
+  Canopy Photon Rate: 90.0
+  Terrain Photon Rate: 11.0
   Random 5 Rows:
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.5333333333333334
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.5333333333333334
@@ -641,8 +702,9 @@ Extent ID: 2913830211965420544
 Extent ID: 2913830211965420544
   Canopy Photon Count: [77.0]
   Terrain Photon Count: [10.0]
-  Canopy Photon Rate: 2.75
-  Terrain Photon Rate: 0.35714285714285715
+  Unique Shots: 1.0
+  Canopy Photon Rate: 77.0
+  Terrain Photon Rate: 10.0
   Random 5 Rows:
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.5333333333333334
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.5333333333333334
@@ -653,8 +715,9 @@ Extent ID: 2913830211965420544
 Extent ID: 2913830211965420544
   Canopy Photon Count: [72.0]
   Terrain Photon Count: [12.0]
-  Canopy Photon Rate: 2.6666666666666665
-  Terrain Photon Rate: 0.4444444444444444
+  Unique Shots: 1.0
+  Canopy Photon Rate: 72.0
+  Terrain Photon Rate: 12.0
   Random 5 Rows:
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.5333333333333334
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.5333333333333334
@@ -665,8 +728,9 @@ Extent ID: 2913830211965420544
 Extent ID: 2913830211965420032
   Canopy Photon Count: [70.0]
   Terrain Photon Count: [4.0]
-  Canopy Photon Rate: 2.9166666666666665
-  Terrain Photon Rate: 0.16666666666666666
+  Unique Shots: 1.0
+  Canopy Photon Rate: 70.0
+  Terrain Photon Rate: 4.0
   Random 5 Rows:
     Canopy Photon Rate: 0.6923076923076923, Terrain Photon Rate: 0.38461538461538464
     Canopy Photon Rate: 0.6923076923076923, Terrain Photon Rate: 0.38461538461538464
@@ -677,8 +741,9 @@ Extent ID: 2913830211965420032
 Extent ID: 2913830211965420544
   Canopy Photon Count: [70.0]
   Terrain Photon Count: [3.0]
-  Canopy Photon Rate: 2.5925925925925926
-  Terrain Photon Rate: 0.1111111111111111
+  Unique Shots: 1.0
+  Canopy Photon Rate: 70.0
+  Terrain Photon Rate: 3.0
   Random 5 Rows:
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.5333333333333334
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.5333333333333334
@@ -689,8 +754,9 @@ Extent ID: 2913830211965420544
 Extent ID: 2913830211965420544
   Canopy Photon Count: [69.0]
   Terrain Photon Count: [23.0]
-  Canopy Photon Rate: 2.5555555555555554
-  Terrain Photon Rate: 0.8518518518518519
+  Unique Shots: 1.0
+  Canopy Photon Rate: 69.0
+  Terrain Photon Rate: 23.0
   Random 5 Rows:
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.5333333333333334
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.5333333333333334
@@ -701,8 +767,9 @@ Extent ID: 2913830211965420544
 Extent ID: 2913830211965420544
   Canopy Photon Count: [68.0]
   Terrain Photon Count: [36.0]
-  Canopy Photon Rate: 2.4285714285714284
-  Terrain Photon Rate: 1.2857142857142858
+  Unique Shots: 1.0
+  Canopy Photon Rate: 68.0
+  Terrain Photon Rate: 36.0
   Random 5 Rows:
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.5333333333333334
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.5333333333333334
@@ -713,8 +780,9 @@ Extent ID: 2913830211965420544
 Extent ID: 2913830211965420544
   Canopy Photon Count: [67.0]
   Terrain Photon Count: [7.0]
-  Canopy Photon Rate: 1.6341463414634145
-  Terrain Photon Rate: 0.17073170731707318
+  Unique Shots: 1.0
+  Canopy Photon Rate: 67.0
+  Terrain Photon Rate: 7.0
   Random 5 Rows:
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.5333333333333334
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.5333333333333334
@@ -725,8 +793,9 @@ Extent ID: 2913830211965420544
 Extent ID: 2913830211965421056
   Canopy Photon Count: [66.0]
   Terrain Photon Count: [29.0]
-  Canopy Photon Rate: 2.4444444444444446
-  Terrain Photon Rate: 1.0740740740740742
+  Unique Shots: 1.0
+  Canopy Photon Rate: 66.0
+  Terrain Photon Rate: 29.0
   Random 5 Rows:
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.5
     Canopy Photon Rate: nan, Terrain Photon Rate: 1.5
@@ -737,8 +806,9 @@ Extent ID: 2913830211965421056
 Extent ID: 2913830211965420032
   Canopy Photon Count: [64.0]
   Terrain Photon Count: [5.0]
-  Canopy Photon Rate: 2.4615384615384617
-  Terrain Photon Rate: 0.19230769230769232
+  Unique Shots: 1.0
+  Canopy Photon Rate: 64.0
+  Terrain Photon Rate: 5.0
   Random 5 Rows:
     Canopy Photon Rate: 0.6923076923076923, Terrain Photon Rate: 0.38461538461538464
     Canopy Photon Rate: 0.6923076923076923, Terrain Photon Rate: 0.38461538461538464
@@ -751,8 +821,9 @@ Date: 2023-02-18
 Extent ID: 4116291318915793920
   Canopy Photon Count: [198.0]
   Terrain Photon Count: [35.0]
-  Canopy Photon Rate: 6.827586206896552
-  Terrain Photon Rate: 1.206896551724138
+  Unique Shots: 1.0
+  Canopy Photon Rate: 198.0
+  Terrain Photon Rate: 35.0
   Random 5 Rows:
     Canopy Photon Rate: 4.642857142857143, Terrain Photon Rate: 3.107142857142857
     Canopy Photon Rate: 4.642857142857143, Terrain Photon Rate: 3.107142857142857
@@ -763,8 +834,9 @@ Extent ID: 4116291318915793920
 Extent ID: 4116291318915793920
   Canopy Photon Count: [193.0]
   Terrain Photon Count: [42.0]
-  Canopy Photon Rate: 6.655172413793103
-  Terrain Photon Rate: 1.4482758620689655
+  Unique Shots: 1.0
+  Canopy Photon Rate: 193.0
+  Terrain Photon Rate: 42.0
   Random 5 Rows:
     Canopy Photon Rate: 4.642857142857143, Terrain Photon Rate: 3.107142857142857
     Canopy Photon Rate: 4.642857142857143, Terrain Photon Rate: 3.107142857142857
@@ -775,8 +847,9 @@ Extent ID: 4116291318915793920
 Extent ID: 4116291318915793920
   Canopy Photon Count: [191.0]
   Terrain Photon Count: [60.0]
-  Canopy Photon Rate: 6.821428571428571
-  Terrain Photon Rate: 2.142857142857143
+  Unique Shots: 1.0
+  Canopy Photon Rate: 191.0
+  Terrain Photon Rate: 60.0
   Random 5 Rows:
     Canopy Photon Rate: 4.642857142857143, Terrain Photon Rate: 3.107142857142857
     Canopy Photon Rate: 4.642857142857143, Terrain Photon Rate: 3.107142857142857
@@ -787,8 +860,9 @@ Extent ID: 4116291318915793920
 Extent ID: 4116291318915793920
   Canopy Photon Count: [190.0]
   Terrain Photon Count: [35.0]
-  Canopy Photon Rate: 6.785714285714286
-  Terrain Photon Rate: 1.25
+  Unique Shots: 1.0
+  Canopy Photon Rate: 190.0
+  Terrain Photon Rate: 35.0
   Random 5 Rows:
     Canopy Photon Rate: 4.642857142857143, Terrain Photon Rate: 3.107142857142857
     Canopy Photon Rate: 4.642857142857143, Terrain Photon Rate: 3.107142857142857
@@ -799,8 +873,9 @@ Extent ID: 4116291318915793920
 Extent ID: 4116291318915793920
   Canopy Photon Count: [185.0]
   Terrain Photon Count: [44.0]
-  Canopy Photon Rate: 6.607142857142857
-  Terrain Photon Rate: 1.5714285714285714
+  Unique Shots: 1.0
+  Canopy Photon Rate: 185.0
+  Terrain Photon Rate: 44.0
   Random 5 Rows:
     Canopy Photon Rate: 4.642857142857143, Terrain Photon Rate: 3.107142857142857
     Canopy Photon Rate: 4.642857142857143, Terrain Photon Rate: 3.107142857142857
@@ -811,8 +886,9 @@ Extent ID: 4116291318915793920
 Extent ID: 4116291318915793920
   Canopy Photon Count: [180.0]
   Terrain Photon Count: [40.0]
-  Canopy Photon Rate: 6.428571428571429
-  Terrain Photon Rate: 1.4285714285714286
+  Unique Shots: 1.0
+  Canopy Photon Rate: 180.0
+  Terrain Photon Rate: 40.0
   Random 5 Rows:
     Canopy Photon Rate: 4.642857142857143, Terrain Photon Rate: 3.107142857142857
     Canopy Photon Rate: 4.642857142857143, Terrain Photon Rate: 3.107142857142857
@@ -823,8 +899,9 @@ Extent ID: 4116291318915793920
 Extent ID: 4116291318915793920
   Canopy Photon Count: [175.0]
   Terrain Photon Count: [64.0]
-  Canopy Photon Rate: 6.25
-  Terrain Photon Rate: 2.2857142857142856
+  Unique Shots: 1.0
+  Canopy Photon Rate: 175.0
+  Terrain Photon Rate: 64.0
   Random 5 Rows:
     Canopy Photon Rate: 4.642857142857143, Terrain Photon Rate: 3.107142857142857
     Canopy Photon Rate: 4.642857142857143, Terrain Photon Rate: 3.107142857142857
@@ -835,8 +912,9 @@ Extent ID: 4116291318915793920
 Extent ID: 4116291318915793920
   Canopy Photon Count: [170.0]
   Terrain Photon Count: [79.0]
-  Canopy Photon Rate: 6.071428571428571
-  Terrain Photon Rate: 2.8214285714285716
+  Unique Shots: 1.0
+  Canopy Photon Rate: 170.0
+  Terrain Photon Rate: 79.0
   Random 5 Rows:
     Canopy Photon Rate: 4.642857142857143, Terrain Photon Rate: 3.107142857142857
     Canopy Photon Rate: 4.642857142857143, Terrain Photon Rate: 3.107142857142857
@@ -847,8 +925,9 @@ Extent ID: 4116291318915793920
 Extent ID: 4116291318915793920
   Canopy Photon Count: [170.0]
   Terrain Photon Count: [63.0]
-  Canopy Photon Rate: 6.071428571428571
-  Terrain Photon Rate: 2.25
+  Unique Shots: 1.0
+  Canopy Photon Rate: 170.0
+  Terrain Photon Rate: 63.0
   Random 5 Rows:
     Canopy Photon Rate: 4.642857142857143, Terrain Photon Rate: 3.107142857142857
     Canopy Photon Rate: 4.642857142857143, Terrain Photon Rate: 3.107142857142857
@@ -859,8 +938,9 @@ Extent ID: 4116291318915793920
 Extent ID: 4116291318915793920
   Canopy Photon Count: [169.0]
   Terrain Photon Count: [71.0]
-  Canopy Photon Rate: 6.035714285714286
-  Terrain Photon Rate: 2.5357142857142856
+  Unique Shots: 1.0
+  Canopy Photon Rate: 169.0
+  Terrain Photon Rate: 71.0
   Random 5 Rows:
     Canopy Photon Rate: 4.642857142857143, Terrain Photon Rate: 3.107142857142857
     Canopy Photon Rate: 4.642857142857143, Terrain Photon Rate: 3.107142857142857
@@ -873,64 +953,73 @@ Date: 2023-03-05
 Extent ID: 5179140823459038208
   Canopy Photon Count: [107.0]
   Terrain Photon Count: [7.0]
-  Canopy Photon Rate: 4.115384615384615
-  Terrain Photon Rate: 0.2692307692307692
+  Unique Shots: 1.0
+  Canopy Photon Rate: 107.0
+  Terrain Photon Rate: 7.0
   No data available for this extent.
 ==================================================
 Extent ID: 5179140823459038208
   Canopy Photon Count: [87.0]
   Terrain Photon Count: [4.0]
-  Canopy Photon Rate: 3.3461538461538463
-  Terrain Photon Rate: 0.15384615384615385
+  Unique Shots: 1.0
+  Canopy Photon Rate: 87.0
+  Terrain Photon Rate: 4.0
   No data available for this extent.
 ==================================================
 Extent ID: 5179140823459038208
   Canopy Photon Count: [85.0]
   Terrain Photon Count: [6.0]
-  Canopy Photon Rate: 3.1481481481481484
-  Terrain Photon Rate: 0.2222222222222222
+  Unique Shots: 1.0
+  Canopy Photon Rate: 85.0
+  Terrain Photon Rate: 6.0
   No data available for this extent.
 ==================================================
 Extent ID: 5179140823459038208
   Canopy Photon Count: [78.0]
   Terrain Photon Count: [8.0]
-  Canopy Photon Rate: 2.888888888888889
-  Terrain Photon Rate: 0.2962962962962963
+  Unique Shots: 1.0
+  Canopy Photon Rate: 78.0
+  Terrain Photon Rate: 8.0
   No data available for this extent.
 ==================================================
 Extent ID: 5179140823459038208
   Canopy Photon Count: [73.0]
   Terrain Photon Count: [20.0]
-  Canopy Photon Rate: 2.7037037037037037
-  Terrain Photon Rate: 0.7407407407407407
+  Unique Shots: 1.0
+  Canopy Photon Rate: 73.0
+  Terrain Photon Rate: 20.0
   No data available for this extent.
 ==================================================
 Extent ID: 5179140823459038208
   Canopy Photon Count: [66.0]
   Terrain Photon Count: [8.0]
-  Canopy Photon Rate: 2.64
-  Terrain Photon Rate: 0.32
+  Unique Shots: 1.0
+  Canopy Photon Rate: 66.0
+  Terrain Photon Rate: 8.0
   No data available for this extent.
 ==================================================
 Extent ID: 5179140823459038208
   Canopy Photon Count: [61.0]
   Terrain Photon Count: [7.0]
-  Canopy Photon Rate: 2.1785714285714284
-  Terrain Photon Rate: 0.25
+  Unique Shots: 1.0
+  Canopy Photon Rate: 61.0
+  Terrain Photon Rate: 7.0
   No data available for this extent.
 ==================================================
 Extent ID: 5179140823459038208
   Canopy Photon Count: [54.0]
   Terrain Photon Count: [5.0]
-  Canopy Photon Rate: 2.16
-  Terrain Photon Rate: 0.2
+  Unique Shots: 1.0
+  Canopy Photon Rate: 54.0
+  Terrain Photon Rate: 5.0
   No data available for this extent.
 ==================================================
 Extent ID: 5179140822385296384
   Canopy Photon Count: [53.0]
   Terrain Photon Count: [2.0]
-  Canopy Photon Rate: 2.0384615384615383
-  Terrain Photon Rate: 0.07692307692307693
+  Unique Shots: 1.0
+  Canopy Photon Rate: 53.0
+  Terrain Photon Rate: 2.0
   Random 5 Rows:
     Canopy Photon Rate: nan, Terrain Photon Rate: 2.260869565217391
     Canopy Photon Rate: nan, Terrain Photon Rate: 2.260869565217391
@@ -941,8 +1030,9 @@ Extent ID: 5179140822385296384
 Extent ID: 5179140823459038208
   Canopy Photon Count: [52.0]
   Terrain Photon Count: [28.0]
-  Canopy Photon Rate: 1.9259259259259258
-  Terrain Photon Rate: 1.037037037037037
+  Unique Shots: 1.0
+  Canopy Photon Rate: 52.0
+  Terrain Photon Rate: 28.0
   No data available for this extent.
 ==================================================
 Date: 2023-03-19
@@ -950,15 +1040,17 @@ Date: 2023-03-19
 Extent ID: 6106882354213554176
   Canopy Photon Count: [219.0]
   Terrain Photon Count: [34.0]
-  Canopy Photon Rate: 7.821428571428571
-  Terrain Photon Rate: 1.2142857142857142
+  Unique Shots: 1.0
+  Canopy Photon Rate: 219.0
+  Terrain Photon Rate: 34.0
   No data available for this extent.
 ==================================================
 Extent ID: 6106882354213553152
   Canopy Photon Count: [212.0]
   Terrain Photon Count: [28.0]
-  Canopy Photon Rate: 7.571428571428571
-  Terrain Photon Rate: 1.0
+  Unique Shots: 1.0
+  Canopy Photon Rate: 212.0
+  Terrain Photon Rate: 28.0
   Random 5 Rows:
     Canopy Photon Rate: 0.9642857142857143, Terrain Photon Rate: 4.392857142857143
     Canopy Photon Rate: 0.9642857142857143, Terrain Photon Rate: 4.392857142857143
@@ -969,8 +1061,9 @@ Extent ID: 6106882354213553152
 Extent ID: 6106882354213553152
   Canopy Photon Count: [199.0]
   Terrain Photon Count: [26.0]
-  Canopy Photon Rate: 7.107142857142857
-  Terrain Photon Rate: 0.9285714285714286
+  Unique Shots: 1.0
+  Canopy Photon Rate: 199.0
+  Terrain Photon Rate: 26.0
   Random 5 Rows:
     Canopy Photon Rate: 0.9642857142857143, Terrain Photon Rate: 4.392857142857143
     Canopy Photon Rate: 0.9642857142857143, Terrain Photon Rate: 4.392857142857143
@@ -981,15 +1074,17 @@ Extent ID: 6106882354213553152
 Extent ID: 6106882354213554176
   Canopy Photon Count: [182.0]
   Terrain Photon Count: [37.0]
-  Canopy Photon Rate: 6.5
-  Terrain Photon Rate: 1.3214285714285714
+  Unique Shots: 1.0
+  Canopy Photon Rate: 182.0
+  Terrain Photon Rate: 37.0
   No data available for this extent.
 ==================================================
 Extent ID: 6106882354213553152
   Canopy Photon Count: [179.0]
   Terrain Photon Count: [54.0]
-  Canopy Photon Rate: 6.172413793103448
-  Terrain Photon Rate: 1.8620689655172413
+  Unique Shots: 1.0
+  Canopy Photon Rate: 179.0
+  Terrain Photon Rate: 54.0
   Random 5 Rows:
     Canopy Photon Rate: 0.9642857142857143, Terrain Photon Rate: 4.392857142857143
     Canopy Photon Rate: 0.9642857142857143, Terrain Photon Rate: 4.392857142857143
@@ -1000,15 +1095,17 @@ Extent ID: 6106882354213553152
 Extent ID: 6106882354213554176
   Canopy Photon Count: [171.0]
   Terrain Photon Count: [56.0]
-  Canopy Photon Rate: 6.107142857142857
-  Terrain Photon Rate: 2.0
+  Unique Shots: 1.0
+  Canopy Photon Rate: 171.0
+  Terrain Photon Rate: 56.0
   No data available for this extent.
 ==================================================
 Extent ID: 6106882354213553152
   Canopy Photon Count: [163.0]
   Terrain Photon Count: [52.0]
-  Canopy Photon Rate: 5.821428571428571
-  Terrain Photon Rate: 1.8571428571428572
+  Unique Shots: 1.0
+  Canopy Photon Rate: 163.0
+  Terrain Photon Rate: 52.0
   Random 5 Rows:
     Canopy Photon Rate: 0.9642857142857143, Terrain Photon Rate: 4.392857142857143
     Canopy Photon Rate: 0.9642857142857143, Terrain Photon Rate: 4.392857142857143
@@ -1019,8 +1116,9 @@ Extent ID: 6106882354213553152
 Extent ID: 6106882354213553152
   Canopy Photon Count: [161.0]
   Terrain Photon Count: [51.0]
-  Canopy Photon Rate: 5.75
-  Terrain Photon Rate: 1.8214285714285714
+  Unique Shots: 1.0
+  Canopy Photon Rate: 161.0
+  Terrain Photon Rate: 51.0
   Random 5 Rows:
     Canopy Photon Rate: 0.9642857142857143, Terrain Photon Rate: 4.392857142857143
     Canopy Photon Rate: 0.9642857142857143, Terrain Photon Rate: 4.392857142857143
@@ -1031,8 +1129,9 @@ Extent ID: 6106882354213553152
 Extent ID: 6106882354213553152
   Canopy Photon Count: [160.0]
   Terrain Photon Count: [42.0]
-  Canopy Photon Rate: 5.714285714285714
-  Terrain Photon Rate: 1.5
+  Unique Shots: 1.0
+  Canopy Photon Rate: 160.0
+  Terrain Photon Rate: 42.0
   Random 5 Rows:
     Canopy Photon Rate: 0.9642857142857143, Terrain Photon Rate: 4.392857142857143
     Canopy Photon Rate: 0.9642857142857143, Terrain Photon Rate: 4.392857142857143
@@ -1043,8 +1142,9 @@ Extent ID: 6106882354213553152
 Extent ID: 6106882354213553152
   Canopy Photon Count: [159.0]
   Terrain Photon Count: [46.0]
-  Canopy Photon Rate: 5.678571428571429
-  Terrain Photon Rate: 1.6428571428571428
+  Unique Shots: 1.0
+  Canopy Photon Rate: 159.0
+  Terrain Photon Rate: 46.0
   Random 5 Rows:
     Canopy Photon Rate: 0.9642857142857143, Terrain Photon Rate: 4.392857142857143
     Canopy Photon Rate: 0.9642857142857143, Terrain Photon Rate: 4.392857142857143
@@ -1057,8 +1157,9 @@ Date: 2023-04-17
 Extent ID: 1850980775067911424
   Canopy Photon Count: [62.0]
   Terrain Photon Count: [23.0]
-  Canopy Photon Rate: 1.4761904761904763
-  Terrain Photon Rate: 0.5476190476190477
+  Unique Shots: 1.0
+  Canopy Photon Rate: 62.0
+  Terrain Photon Rate: 23.0
   Random 5 Rows:
     Canopy Photon Rate: 0.7857142857142857, Terrain Photon Rate: 0.5714285714285714
     Canopy Photon Rate: 0.7857142857142857, Terrain Photon Rate: 0.5714285714285714
@@ -1069,8 +1170,9 @@ Extent ID: 1850980775067911424
 Extent ID: 1850980775067911424
   Canopy Photon Count: [56.0]
   Terrain Photon Count: [5.0]
-  Canopy Photon Rate: 2.1538461538461537
-  Terrain Photon Rate: 0.19230769230769232
+  Unique Shots: 1.0
+  Canopy Photon Rate: 56.0
+  Terrain Photon Rate: 5.0
   Random 5 Rows:
     Canopy Photon Rate: 0.7857142857142857, Terrain Photon Rate: 0.5714285714285714
     Canopy Photon Rate: 0.7857142857142857, Terrain Photon Rate: 0.5714285714285714
@@ -1081,8 +1183,9 @@ Extent ID: 1850980775067911424
 Extent ID: 1850980775067911424
   Canopy Photon Count: [50.0]
   Terrain Photon Count: [7.0]
-  Canopy Photon Rate: 2.0833333333333335
-  Terrain Photon Rate: 0.2916666666666667
+  Unique Shots: 1.0
+  Canopy Photon Rate: 50.0
+  Terrain Photon Rate: 7.0
   Random 5 Rows:
     Canopy Photon Rate: 0.7857142857142857, Terrain Photon Rate: 0.5714285714285714
     Canopy Photon Rate: 0.7857142857142857, Terrain Photon Rate: 0.5714285714285714
@@ -1093,8 +1196,9 @@ Extent ID: 1850980775067911424
 Extent ID: 1850980775067911424
   Canopy Photon Count: [41.0]
   Terrain Photon Count: [10.0]
-  Canopy Photon Rate: 1.7826086956521738
-  Terrain Photon Rate: 0.43478260869565216
+  Unique Shots: 1.0
+  Canopy Photon Rate: 41.0
+  Terrain Photon Rate: 10.0
   Random 5 Rows:
     Canopy Photon Rate: 0.7857142857142857, Terrain Photon Rate: 0.5714285714285714
     Canopy Photon Rate: 0.7857142857142857, Terrain Photon Rate: 0.5714285714285714
@@ -1105,8 +1209,9 @@ Extent ID: 1850980775067911424
 Extent ID: 1850980775067911424
   Canopy Photon Count: [39.0]
   Terrain Photon Count: [3.0]
-  Canopy Photon Rate: 1.6956521739130435
-  Terrain Photon Rate: 0.13043478260869565
+  Unique Shots: 1.0
+  Canopy Photon Rate: 39.0
+  Terrain Photon Rate: 3.0
   Random 5 Rows:
     Canopy Photon Rate: 0.7857142857142857, Terrain Photon Rate: 0.5714285714285714
     Canopy Photon Rate: 0.7857142857142857, Terrain Photon Rate: 0.5714285714285714
@@ -1117,8 +1222,9 @@ Extent ID: 1850980775067911424
 Extent ID: 1850980775067911424
   Canopy Photon Count: [37.0]
   Terrain Photon Count: [4.0]
-  Canopy Photon Rate: 1.6818181818181819
-  Terrain Photon Rate: 0.18181818181818182
+  Unique Shots: 1.0
+  Canopy Photon Rate: 37.0
+  Terrain Photon Rate: 4.0
   Random 5 Rows:
     Canopy Photon Rate: 0.7857142857142857, Terrain Photon Rate: 0.5714285714285714
     Canopy Photon Rate: 0.7857142857142857, Terrain Photon Rate: 0.5714285714285714
@@ -1129,8 +1235,9 @@ Extent ID: 1850980775067911424
 Extent ID: 1850980775067911424
   Canopy Photon Count: [28.0]
   Terrain Photon Count: [11.0]
-  Canopy Photon Rate: 1.2727272727272727
-  Terrain Photon Rate: 0.5
+  Unique Shots: 1.0
+  Canopy Photon Rate: 28.0
+  Terrain Photon Rate: 11.0
   Random 5 Rows:
     Canopy Photon Rate: 0.7857142857142857, Terrain Photon Rate: 0.5714285714285714
     Canopy Photon Rate: 0.7857142857142857, Terrain Photon Rate: 0.5714285714285714
@@ -1141,8 +1248,9 @@ Extent ID: 1850980775067911424
 Extent ID: 1850980775067911424
   Canopy Photon Count: [26.0]
   Terrain Photon Count: [5.0]
-  Canopy Photon Rate: 1.4444444444444444
-  Terrain Photon Rate: 0.2777777777777778
+  Unique Shots: 1.0
+  Canopy Photon Rate: 26.0
+  Terrain Photon Rate: 5.0
   Random 5 Rows:
     Canopy Photon Rate: 0.7857142857142857, Terrain Photon Rate: 0.5714285714285714
     Canopy Photon Rate: 0.7857142857142857, Terrain Photon Rate: 0.5714285714285714
@@ -1153,8 +1261,9 @@ Extent ID: 1850980775067911424
 Extent ID: 1850980775067911424
   Canopy Photon Count: [25.0]
   Terrain Photon Count: [9.0]
-  Canopy Photon Rate: 1.3157894736842106
-  Terrain Photon Rate: 0.47368421052631576
+  Unique Shots: 1.0
+  Canopy Photon Rate: 25.0
+  Terrain Photon Rate: 9.0
   Random 5 Rows:
     Canopy Photon Rate: 0.7857142857142857, Terrain Photon Rate: 0.5714285714285714
     Canopy Photon Rate: 0.7857142857142857, Terrain Photon Rate: 0.5714285714285714
@@ -1165,8 +1274,9 @@ Extent ID: 1850980775067911424
 Extent ID: 1850980775067911168
   Canopy Photon Count: [14.0]
   Terrain Photon Count: [6.0]
-  Canopy Photon Rate: 1.0
-  Terrain Photon Rate: 0.42857142857142855
+  Unique Shots: 1.0
+  Canopy Photon Rate: 14.0
+  Terrain Photon Rate: 6.0
   No data available for this extent.
 ==================================================
 Date: 2023-04-21
@@ -1174,8 +1284,9 @@ Date: 2023-04-21
 Extent ID: 2125700352337511680
   Canopy Photon Count: [169.0]
   Terrain Photon Count: [37.0]
-  Canopy Photon Rate: 6.035714285714286
-  Terrain Photon Rate: 1.3214285714285714
+  Unique Shots: 1.0
+  Canopy Photon Rate: 169.0
+  Terrain Photon Rate: 37.0
   Random 5 Rows:
     Canopy Photon Rate: 1.8461538461538463, Terrain Photon Rate: 2.3076923076923075
     Canopy Photon Rate: 1.8461538461538463, Terrain Photon Rate: 2.3076923076923075
@@ -1186,8 +1297,9 @@ Extent ID: 2125700352337511680
 Extent ID: 2125700352337510656
   Canopy Photon Count: [151.0]
   Terrain Photon Count: [38.0]
-  Canopy Photon Rate: 5.392857142857143
-  Terrain Photon Rate: 1.3571428571428572
+  Unique Shots: 1.0
+  Canopy Photon Rate: 151.0
+  Terrain Photon Rate: 38.0
   Random 5 Rows:
     Canopy Photon Rate: 2.8214285714285716, Terrain Photon Rate: 1.6428571428571428
     Canopy Photon Rate: 2.8214285714285716, Terrain Photon Rate: 1.6428571428571428
@@ -1198,8 +1310,9 @@ Extent ID: 2125700352337510656
 Extent ID: 2125700352337510400
   Canopy Photon Count: [149.0]
   Terrain Photon Count: [16.0]
-  Canopy Photon Rate: 5.321428571428571
-  Terrain Photon Rate: 0.5714285714285714
+  Unique Shots: 1.0
+  Canopy Photon Rate: 149.0
+  Terrain Photon Rate: 16.0
   Random 5 Rows:
     Canopy Photon Rate: 1.7857142857142858, Terrain Photon Rate: 4.285714285714286
     Canopy Photon Rate: 1.7857142857142858, Terrain Photon Rate: 4.285714285714286
@@ -1210,8 +1323,9 @@ Extent ID: 2125700352337510400
 Extent ID: 2125700352337511680
   Canopy Photon Count: [144.0]
   Terrain Photon Count: [18.0]
-  Canopy Photon Rate: 5.142857142857143
-  Terrain Photon Rate: 0.6428571428571429
+  Unique Shots: 1.0
+  Canopy Photon Rate: 144.0
+  Terrain Photon Rate: 18.0
   Random 5 Rows:
     Canopy Photon Rate: 1.8461538461538463, Terrain Photon Rate: 2.3076923076923075
     Canopy Photon Rate: 1.8461538461538463, Terrain Photon Rate: 2.3076923076923075
@@ -1222,8 +1336,9 @@ Extent ID: 2125700352337511680
 Extent ID: 2125700352337510400
   Canopy Photon Count: [143.0]
   Terrain Photon Count: [56.0]
-  Canopy Photon Rate: 5.107142857142857
-  Terrain Photon Rate: 2.0
+  Unique Shots: 1.0
+  Canopy Photon Rate: 143.0
+  Terrain Photon Rate: 56.0
   Random 5 Rows:
     Canopy Photon Rate: 1.7857142857142858, Terrain Photon Rate: 4.285714285714286
     Canopy Photon Rate: 1.7857142857142858, Terrain Photon Rate: 4.285714285714286
@@ -1234,8 +1349,9 @@ Extent ID: 2125700352337510400
 Extent ID: 2125700352337511680
   Canopy Photon Count: [143.0]
   Terrain Photon Count: [40.0]
-  Canopy Photon Rate: 5.107142857142857
-  Terrain Photon Rate: 1.4285714285714286
+  Unique Shots: 1.0
+  Canopy Photon Rate: 143.0
+  Terrain Photon Rate: 40.0
   Random 5 Rows:
     Canopy Photon Rate: 1.8461538461538463, Terrain Photon Rate: 2.3076923076923075
     Canopy Photon Rate: 1.8461538461538463, Terrain Photon Rate: 2.3076923076923075
@@ -1246,8 +1362,9 @@ Extent ID: 2125700352337511680
 Extent ID: 2125700352337510400
   Canopy Photon Count: [140.0]
   Terrain Photon Count: [44.0]
-  Canopy Photon Rate: 5.0
-  Terrain Photon Rate: 1.5714285714285714
+  Unique Shots: 1.0
+  Canopy Photon Rate: 140.0
+  Terrain Photon Rate: 44.0
   Random 5 Rows:
     Canopy Photon Rate: 1.7857142857142858, Terrain Photon Rate: 4.285714285714286
     Canopy Photon Rate: 1.7857142857142858, Terrain Photon Rate: 4.285714285714286
@@ -1258,8 +1375,9 @@ Extent ID: 2125700352337510400
 Extent ID: 2125700352337510656
   Canopy Photon Count: [138.0]
   Terrain Photon Count: [16.0]
-  Canopy Photon Rate: 4.928571428571429
-  Terrain Photon Rate: 0.5714285714285714
+  Unique Shots: 1.0
+  Canopy Photon Rate: 138.0
+  Terrain Photon Rate: 16.0
   Random 5 Rows:
     Canopy Photon Rate: 2.8214285714285716, Terrain Photon Rate: 1.6428571428571428
     Canopy Photon Rate: 2.8214285714285716, Terrain Photon Rate: 1.6428571428571428
@@ -1270,8 +1388,9 @@ Extent ID: 2125700352337510656
 Extent ID: 2125700352337510912
   Canopy Photon Count: [138.0]
   Terrain Photon Count: [64.0]
-  Canopy Photon Rate: 4.758620689655173
-  Terrain Photon Rate: 2.206896551724138
+  Unique Shots: 1.0
+  Canopy Photon Rate: 138.0
+  Terrain Photon Rate: 64.0
   Random 5 Rows:
     Canopy Photon Rate: 0.48148148148148145, Terrain Photon Rate: 4.148148148148148
     Canopy Photon Rate: 0.48148148148148145, Terrain Photon Rate: 4.148148148148148
@@ -1282,8 +1401,9 @@ Extent ID: 2125700352337510912
 Extent ID: 2125700352337511424
   Canopy Photon Count: [137.0]
   Terrain Photon Count: [40.0]
-  Canopy Photon Rate: 4.892857142857143
-  Terrain Photon Rate: 1.4285714285714286
+  Unique Shots: 1.0
+  Canopy Photon Rate: 137.0
+  Terrain Photon Rate: 40.0
   Random 5 Rows:
     Canopy Photon Rate: 3.75, Terrain Photon Rate: 1.7857142857142858
     Canopy Photon Rate: 3.75, Terrain Photon Rate: 1.7857142857142858
@@ -1296,8 +1416,9 @@ Date: 2023-05-06
 Extent ID: 3188549857954498048
   Canopy Photon Count: [140.0]
   Terrain Photon Count: [89.0]
-  Canopy Photon Rate: 2.5925925925925926
-  Terrain Photon Rate: 1.6481481481481481
+  Unique Shots: 1.0
+  Canopy Photon Rate: 140.0
+  Terrain Photon Rate: 89.0
   Random 5 Rows:
     Canopy Photon Rate: 1.3076923076923077, Terrain Photon Rate: 2.1153846153846154
     Canopy Photon Rate: 1.3076923076923077, Terrain Photon Rate: 2.1153846153846154
@@ -1308,8 +1429,9 @@ Extent ID: 3188549857954498048
 Extent ID: 3188549857954497024
   Canopy Photon Count: [117.0]
   Terrain Photon Count: [13.0]
-  Canopy Photon Rate: 4.0344827586206895
-  Terrain Photon Rate: 0.4482758620689655
+  Unique Shots: 1.0
+  Canopy Photon Rate: 117.0
+  Terrain Photon Rate: 13.0
   Random 5 Rows:
     Canopy Photon Rate: 1.6785714285714286, Terrain Photon Rate: 3.2857142857142856
     Canopy Photon Rate: 1.6785714285714286, Terrain Photon Rate: 3.2857142857142856
@@ -1320,8 +1442,9 @@ Extent ID: 3188549857954497024
 Extent ID: 3188549857954497536
   Canopy Photon Count: [110.0]
   Terrain Photon Count: [65.0]
-  Canopy Photon Rate: 2.1153846153846154
-  Terrain Photon Rate: 1.25
+  Unique Shots: 1.0
+  Canopy Photon Rate: 110.0
+  Terrain Photon Rate: 65.0
   Random 5 Rows:
     Canopy Photon Rate: nan, Terrain Photon Rate: 3.0
     Canopy Photon Rate: nan, Terrain Photon Rate: 3.0
@@ -1330,8 +1453,9 @@ Extent ID: 3188549857954497536
 Extent ID: 3188549857954498048
   Canopy Photon Count: [105.0]
   Terrain Photon Count: [21.0]
-  Canopy Photon Rate: 3.75
-  Terrain Photon Rate: 0.75
+  Unique Shots: 1.0
+  Canopy Photon Rate: 105.0
+  Terrain Photon Rate: 21.0
   Random 5 Rows:
     Canopy Photon Rate: 1.3076923076923077, Terrain Photon Rate: 2.1153846153846154
     Canopy Photon Rate: 1.3076923076923077, Terrain Photon Rate: 2.1153846153846154
@@ -1342,8 +1466,9 @@ Extent ID: 3188549857954498048
 Extent ID: 3188549857954498048
   Canopy Photon Count: [96.0]
   Terrain Photon Count: [27.0]
-  Canopy Photon Rate: 3.4285714285714284
-  Terrain Photon Rate: 0.9642857142857143
+  Unique Shots: 1.0
+  Canopy Photon Rate: 96.0
+  Terrain Photon Rate: 27.0
   Random 5 Rows:
     Canopy Photon Rate: 1.3076923076923077, Terrain Photon Rate: 2.1153846153846154
     Canopy Photon Rate: 1.3076923076923077, Terrain Photon Rate: 2.1153846153846154
@@ -1354,8 +1479,9 @@ Extent ID: 3188549857954498048
 Extent ID: 3188549857954497024
   Canopy Photon Count: [94.0]
   Terrain Photon Count: [65.0]
-  Canopy Photon Rate: 3.4814814814814814
-  Terrain Photon Rate: 2.4074074074074074
+  Unique Shots: 1.0
+  Canopy Photon Rate: 94.0
+  Terrain Photon Rate: 65.0
   Random 5 Rows:
     Canopy Photon Rate: 1.6785714285714286, Terrain Photon Rate: 3.2857142857142856
     Canopy Photon Rate: 1.6785714285714286, Terrain Photon Rate: 3.2857142857142856
@@ -1366,8 +1492,9 @@ Extent ID: 3188549857954497024
 Extent ID: 3188549857954498048
   Canopy Photon Count: [90.0]
   Terrain Photon Count: [21.0]
-  Canopy Photon Rate: 3.2142857142857144
-  Terrain Photon Rate: 0.75
+  Unique Shots: 1.0
+  Canopy Photon Rate: 90.0
+  Terrain Photon Rate: 21.0
   Random 5 Rows:
     Canopy Photon Rate: 1.3076923076923077, Terrain Photon Rate: 2.1153846153846154
     Canopy Photon Rate: 1.3076923076923077, Terrain Photon Rate: 2.1153846153846154
@@ -1378,8 +1505,9 @@ Extent ID: 3188549857954498048
 Extent ID: 3188549857954496512
   Canopy Photon Count: [88.0]
   Terrain Photon Count: [8.0]
-  Canopy Photon Rate: 3.142857142857143
-  Terrain Photon Rate: 0.2857142857142857
+  Unique Shots: 1.0
+  Canopy Photon Rate: 88.0
+  Terrain Photon Rate: 8.0
   Random 5 Rows:
     Canopy Photon Rate: 0.6071428571428571, Terrain Photon Rate: 3.357142857142857
     Canopy Photon Rate: 0.6071428571428571, Terrain Photon Rate: 3.357142857142857
@@ -1390,8 +1518,9 @@ Extent ID: 3188549857954496512
 Extent ID: 3188549857954498048
   Canopy Photon Count: [87.0]
   Terrain Photon Count: [22.0]
-  Canopy Photon Rate: 3.2222222222222223
-  Terrain Photon Rate: 0.8148148148148148
+  Unique Shots: 1.0
+  Canopy Photon Rate: 87.0
+  Terrain Photon Rate: 22.0
   Random 5 Rows:
     Canopy Photon Rate: 1.3076923076923077, Terrain Photon Rate: 2.1153846153846154
     Canopy Photon Rate: 1.3076923076923077, Terrain Photon Rate: 2.1153846153846154
@@ -1402,8 +1531,9 @@ Extent ID: 3188549857954498048
 Extent ID: 3188549857954497536
   Canopy Photon Count: [85.0]
   Terrain Photon Count: [95.0]
-  Canopy Photon Rate: 1.6666666666666667
-  Terrain Photon Rate: 1.8627450980392157
+  Unique Shots: 1.0
+  Canopy Photon Rate: 85.0
+  Terrain Photon Rate: 95.0
   Random 5 Rows:
     Canopy Photon Rate: nan, Terrain Photon Rate: 3.0
     Canopy Photon Rate: nan, Terrain Photon Rate: 3.0
