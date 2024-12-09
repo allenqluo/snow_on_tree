@@ -1949,3 +1949,593 @@ Extent ID: 4796335074175877489
   Ground Min Relative Height: 0
   Ground Max Relative Height: 0
 ==================================================
+Extent Data Log
+==================================================
+Site Name: TEAK
+Date: 2019-06-07
+Ground Offset: 2
+Total Photons: 21144
+Total Photons Reassigned to Ground: 16247
+==================================================
+Extent ID: 4796333837225297937
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 1948.5419921875
+  Ground Max Height: 1948.97998046875
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796333837225299224
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 1972.999267578125
+  Ground Max Height: 1975.2313232421875
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796333838299040304
+  Canopy Photons: 48
+  Canopy Min Height: 1990.7144775390625
+  Canopy Max Height: 1999.155517578125
+  Ground Min Height: 1987.8192138671875
+  Ground Max Height: 1996.2305908203125
+  Canopy Min Relative Height: 2.482421875
+  Canopy Max Relative Height: 10.9234619140625
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796333837225296472
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 2266.976318359375
+  Ground Max Height: 2269.090576171875
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796333836151556912
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 2448.96044921875
+  Ground Max Height: 2450.743896484375
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796333837225297753
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 1948.6612548828125
+  Ground Max Height: 1949.0628662109375
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796333837225298920
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 2027.3707275390625
+  Ground Max Height: 2028.18212890625
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796333838299041468
+  Canopy Photons: 20
+  Canopy Min Height: 1321.744384765625
+  Canopy Max Height: 1323.6492919921875
+  Ground Min Height: 1319.30712890625
+  Ground Max Height: 1323.3031005859375
+  Canopy Min Relative Height: 2.030517578125
+  Canopy Max Relative Height: 3.9354248046875
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796333837225297825
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 1948.599609375
+  Ground Max Height: 1949.0111083984375
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796333837225298801
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 2048.87109375
+  Ground Max Height: 2049.424560546875
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0
+  Ground Max Relative Height: 0
+==================================================
+Extent Data Log
+==================================================
+Site Name: TEAK
+Date: 2019-09-11
+Ground Offset: 2
+Total Photons: 93497
+Total Photons Reassigned to Ground: 34521
+==================================================
+Extent ID: 5174636256390283633
+  Canopy Photons: 12
+  Canopy Min Height: 2163.056884765625
+  Canopy Max Height: 2178.078125
+  Ground Min Height: 2160.38134765625
+  Ground Max Height: 2162.933837890625
+  Canopy Min Relative Height: 2.114501953125
+  Canopy Max Relative Height: 17.1357421875
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 5174636257464026816
+  Canopy Photons: 7
+  Canopy Min Height: 2162.190673828125
+  Canopy Max Height: 2174.408935546875
+  Ground Min Height: 2159.8837890625
+  Ground Max Height: 2161.59716796875
+  Canopy Min Relative Height: 2.1875
+  Canopy Max Relative Height: 14.40576171875
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 5174636257464028552
+  Canopy Photons: 6
+  Canopy Min Height: 2620.623046875
+  Canopy Max Height: 2631.147216796875
+  Ground Min Height: 2616.964599609375
+  Ground Max Height: 2620.992431640625
+  Canopy Min Relative Height: 3.39013671875
+  Canopy Max Relative Height: 13.914306640625
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 5174636256390285533
+  Canopy Photons: 18
+  Canopy Min Height: 2056.6767578125
+  Canopy Max Height: 2083.801025390625
+  Ground Min Height: 2053.3955078125
+  Ground Max Height: 2055.095947265625
+  Canopy Min Relative Height: 2.360595703125
+  Canopy Max Relative Height: 29.48486328125
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 5174636258537767529
+  Canopy Photons: 23
+  Canopy Min Height: 1915.44677734375
+  Canopy Max Height: 1943.315185546875
+  Ground Min Height: 1912.3953857421875
+  Ground Max Height: 1914.9835205078125
+  Canopy Min Relative Height: 2.07080078125
+  Canopy Max Relative Height: 29.939208984375
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 5174636256390283736
+  Canopy Photons: 5
+  Canopy Min Height: 2177.118408203125
+  Canopy Max Height: 2186.69287109375
+  Ground Min Height: 2172.19140625
+  Ground Max Height: 2173.52880859375
+  Canopy Min Relative Height: 4.921630859375
+  Canopy Max Relative Height: 14.49609375
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 5174636257464025921
+  Canopy Photons: 18
+  Canopy Min Height: 1949.1864013671875
+  Canopy Max Height: 1960.8109130859375
+  Ground Min Height: 1946.6336669921875
+  Ground Max Height: 1951.0133056640625
+  Canopy Min Relative Height: 2.02978515625
+  Canopy Max Relative Height: 13.654296875
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 5174636256390286880
+  Canopy Photons: 4
+  Canopy Min Height: 2541.33740234375
+  Canopy Max Height: 2553.0126953125
+  Ground Min Height: 2529.12060546875
+  Ground Max Height: 2530.389892578125
+  Canopy Min Relative Height: 11.52197265625
+  Canopy Max Relative Height: 23.197265625
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 5174636257464025756
+  Canopy Photons: 1
+  Canopy Min Height: 1885.474365234375
+  Canopy Max Height: 1885.474365234375
+  Ground Min Height: 1882.8255615234375
+  Ground Max Height: 1885.112060546875
+  Canopy Min Relative Height: 2.218505859375
+  Canopy Max Relative Height: 2.218505859375
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 5174636257464026544
+  Canopy Photons: 1
+  Canopy Min Height: 2223.939453125
+  Canopy Max Height: 2223.939453125
+  Ground Min Height: 2212.6103515625
+  Ground Max Height: 2215.532958984375
+  Canopy Min Relative Height: 8.675537109375
+  Canopy Max Relative Height: 8.675537109375
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent Data Log
+==================================================
+Site Name: TEAK
+Date: 2019-12-05
+Ground Offset: 2
+Total Photons: 308370
+Total Photons Reassigned to Ground: 182731
+==================================================
+Extent ID: 4796333974664252373
+  Canopy Photons: 6
+  Canopy Min Height: 2033.1488037109375
+  Canopy Max Height: 2037.64892578125
+  Ground Min Height: 2028.9017333984375
+  Ground Max Height: 2031.403564453125
+  Canopy Min Relative Height: 3.6124267578125
+  Canopy Max Relative Height: 8.112548828125
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796333974664249492
+  Canopy Photons: 1
+  Canopy Min Height: 2671.008056640625
+  Canopy Max Height: 2671.008056640625
+  Ground Min Height: 2668.438232421875
+  Ground Max Height: 2670.885498046875
+  Canopy Min Relative Height: 2.245849609375
+  Canopy Max Relative Height: 2.245849609375
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796333974664251545
+  Canopy Photons: 118
+  Canopy Min Height: 1982.3984375
+  Canopy Max Height: 1992.5599365234375
+  Ground Min Height: 1980.041748046875
+  Ground Max Height: 1984.8155517578125
+  Canopy Min Relative Height: 2.009521484375
+  Canopy Max Relative Height: 12.1710205078125
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796333973590509588
+  Canopy Photons: 29
+  Canopy Min Height: 2599.147705078125
+  Canopy Max Height: 2608.055908203125
+  Ground Min Height: 2596.33740234375
+  Ground Max Height: 2600.031982421875
+  Canopy Min Relative Height: 2.32470703125
+  Canopy Max Relative Height: 11.23291015625
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796333973590508185
+  Canopy Photons: 15
+  Canopy Min Height: 2214.55810546875
+  Canopy Max Height: 2222.401123046875
+  Ground Min Height: 2210.884765625
+  Ground Max Height: 2214.335693359375
+  Canopy Min Relative Height: 2.009521484375
+  Canopy Max Relative Height: 9.8525390625
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796333974664251436
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 1940.921630859375
+  Ground Max Height: 1941.09130859375
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796333973590511216
+  Canopy Photons: 41
+  Canopy Min Height: 2560.45068359375
+  Canopy Max Height: 2563.718505859375
+  Ground Min Height: 2558.064453125
+  Ground Max Height: 2560.12939453125
+  Canopy Min Relative Height: 2.03857421875
+  Canopy Max Relative Height: 5.306396484375
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796333973590508757
+  Canopy Photons: 29
+  Canopy Min Height: 2805.98291015625
+  Canopy Max Height: 2817.881591796875
+  Ground Min Height: 2796.744384765625
+  Ground Max Height: 2805.828125
+  Canopy Min Relative Height: 2.097412109375
+  Canopy Max Relative Height: 13.99609375
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796333974664250181
+  Canopy Photons: 29
+  Canopy Min Height: 2285.77294921875
+  Canopy Max Height: 2296.7900390625
+  Ground Min Height: 2282.347412109375
+  Ground Max Height: 2285.3515625
+  Canopy Min Relative Height: 2.165771484375
+  Canopy Max Relative Height: 13.182861328125
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796333974664249604
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 2520.603271484375
+  Ground Max Height: 2526.693603515625
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0
+  Ground Max Relative Height: 0
+==================================================
+Extent Data Log
+==================================================
+Site Name: TEAK
+Date: 2020-09-08
+Ground Offset: 2
+Total Photons: 6857
+Total Photons Reassigned to Ground: 5574
+==================================================
+Extent ID: 5174636533415677856
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 2457.218017578125
+  Ground Max Height: 2457.9091796875
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 5174636533415675988
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 2052.2890625
+  Ground Max Height: 2053.7060546875
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 5174636533415677264
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 2276.9619140625
+  Ground Max Height: 2279.057861328125
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 5174636531268194040
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 2791.957763671875
+  Ground Max Height: 2793.44677734375
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 5174636532341935344
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 2666.52490234375
+  Ground Max Height: 2667.687255859375
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 5174636533415677740
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 2509.205322265625
+  Ground Max Height: 2509.91845703125
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 5174636531268193856
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 2695.90478515625
+  Ground Max Height: 2696.9013671875
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 5174636533415676156
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 1995.8944091796875
+  Ground Max Height: 1997.55078125
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 5174636533415677768
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 2505.1796875
+  Ground Max Height: 2506.9130859375
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 5174636533415677536
+  Canopy Photons: 31
+  Canopy Min Height: 2481.30712890625
+  Canopy Max Height: 2484.993408203125
+  Ground Min Height: 2478.658203125
+  Ground Max Height: 2483.747802734375
+  Canopy Min Relative Height: 2.345947265625
+  Canopy Max Relative Height: 6.0322265625
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent Data Log
+==================================================
+Site Name: TEAK
+Date: 2020-12-02
+Ground Offset: 2
+Total Photons: 63455
+Total Photons Reassigned to Ground: 40749
+==================================================
+Extent ID: 4796334249542158385
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 2576.48876953125
+  Ground Max Height: 2579.19140625
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0
+  Ground Max Relative Height: 0
+==================================================
+Extent ID: 4796334250615899604
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 2013.66455078125
+  Ground Max Height: 2013.960205078125
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796334250615898273
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 2541.219482421875
+  Ground Max Height: 2545.126220703125
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0
+  Ground Max Relative Height: 0
+==================================================
+Extent ID: 4796334249542160212
+  Canopy Photons: 89
+  Canopy Min Height: 2729.341064453125
+  Canopy Max Height: 2738.999267578125
+  Ground Min Height: 2725.04052734375
+  Ground Max Height: 2729.366943359375
+  Canopy Min Relative Height: 3.05712890625
+  Canopy Max Relative Height: 12.71533203125
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796334250615901832
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 2137.665771484375
+  Ground Max Height: 2143.607421875
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0
+  Ground Max Relative Height: 0
+==================================================
+Extent ID: 4796334248468415576
+  Canopy Photons: 3
+  Canopy Min Height: 2549.160400390625
+  Canopy Max Height: 2550.81298828125
+  Ground Min Height: 2546.614013671875
+  Ground Max Height: 2548.97265625
+  Canopy Min Relative Height: 2.0205078125
+  Canopy Max Relative Height: 3.673095703125
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796334249542158532
+  Canopy Photons: 15
+  Canopy Min Height: 2751.56005859375
+  Canopy Max Height: 2757.79052734375
+  Ground Min Height: 2747.974365234375
+  Ground Max Height: 2755.962890625
+  Canopy Min Relative Height: 2.8857421875
+  Canopy Max Relative Height: 9.1162109375
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796334248468416349
+  Canopy Photons: 3
+  Canopy Min Height: 2826.86376953125
+  Canopy Max Height: 2828.747314453125
+  Ground Min Height: 2823.583984375
+  Ground Max Height: 2826.315673828125
+  Canopy Min Relative Height: 2.3466796875
+  Canopy Max Relative Height: 4.230224609375
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796334249542159600
+  Canopy Photons: 12
+  Canopy Min Height: 2347.662353515625
+  Canopy Max Height: 2359.626708984375
+  Ground Min Height: 2345.430908203125
+  Ground Max Height: 2348.569091796875
+  Canopy Min Relative Height: 2.09130859375
+  Canopy Max Relative Height: 14.0556640625
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
+Extent ID: 4796334250615899788
+  Canopy Photons: 0
+  Canopy Min Height: None
+  Canopy Max Height: None
+  Ground Min Height: 1937.4195556640625
+  Ground Max Height: 1938.05126953125
+  Canopy Min Relative Height: None
+  Canopy Max Relative Height: None
+  Ground Min Relative Height: 0.0
+  Ground Max Relative Height: 0.0
+==================================================
