@@ -1,5 +1,5 @@
-date,segment_count,unclassified_photon_count,ground_photon_count,canopy_photon_count,top_of_canopy_photon_count,noise_photon_count
-2019-06-26,4,6,157,2,0.0,0.0
-2019-09-11,276,1123,10554,6059,1628,13
-2019-09-24,30,172,2398,16,0.0,0.0
-2019-12-24,325,32848,102186,43363,5334,0.0
+date,segment_count,unclassified_photon_count,ground_photon_count,canopy_photon_count,top_of_canopy_photon_count,noise_photon_count,total_photon_count,other_photons
+2019-06-26,5,0.0,124,0.0,0.0,0.0,124,0
+2019-09-11,701,1,11428,2441,1141,0.0,15011,1
+2019-09-24,53,0.0,2100,0.0,0.0,0.0,2100,0
+2019-12-24,1598,0.0,132628,13804,4310,0.0,150742,0
