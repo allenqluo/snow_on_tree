@@ -1,4 +1,4 @@
-date,segment_count,unclassified_photon_count,ground_photon_count,canopy_photon_count,top_of_canopy_photon_count,noise_photon_count
-2023-03-24,9,820,2118,2282,452,0.0
-2023-08-22,22,34,233,592,110,4
-2023-11-21,125,6663,11180,24409,3104,0.0
+date,segment_count,unclassified_photon_count,ground_photon_count,canopy_photon_count,top_of_canopy_photon_count,noise_photon_count,total_photon_count,other_photons
+2023-03-24,41,0.0,4251,462,114,0.0,4827,0
+2023-08-22,26,0.0,658,23,8,0.0,689,0
+2023-11-21,507,0.0,24165,12129,2010,0.0,38304,0
