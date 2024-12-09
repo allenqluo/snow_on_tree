@@ -1,6 +1,6 @@
-date,segment_count,unclassified_photon_count,ground_photon_count,canopy_photon_count,top_of_canopy_photon_count,noise_photon_count
-2023-02-12,155,1715,10165,4354,382,0.0
-2023-05-14,50,78,438,794,30,7
-2023-05-21,357,1566,5351,20387,3562,20
-2023-08-13,323,3240,9040,24630,3936,14
-2023-08-19,1,2,132,0.0,0.0,1
+date,segment_count,unclassified_photon_count,ground_photon_count,canopy_photon_count,top_of_canopy_photon_count,noise_photon_count,total_photon_count,other_photons
+2023-02-12,408,0.0,13253,517,129,0.0,13899,0
+2023-05-14,44,0.0,620,87,0.0,0.0,707,0
+2023-05-21,991,1597,19200,4803,344,0.0,25944,1597
+2023-08-13,1189,2521,24846,7303,355,0.0,35025,2521
+2023-08-19,2,0.0,132,0.0,0.0,0.0,132,0
